@@ -1,0 +1,1 @@
+# aws-mean-stack
